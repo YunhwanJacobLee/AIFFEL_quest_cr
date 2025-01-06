@@ -3,8 +3,8 @@
 
 ## 페이지 구조 소개
 ```bash   
-_**AIFFEL_quest_cr**_   
-├── _**Main_Quest**_   
+AIFFEL_quest_cr   
+├── Main_Quest   
 │   ├── Quest_01   
 │   │   ├── .ipynb   
 │   │   └── README.md   
@@ -13,7 +13,7 @@ _**AIFFEL_quest_cr**_
 │   └── Quest_08   
 │       ├── .ipynb   
 │       └── README.md   
-├── _**Python**_   
+├── Python   
 │   ├── Quest_01   
 │   │   ├── .ipynb   
 │   │   └── README.md   
@@ -22,7 +22,7 @@ _**AIFFEL_quest_cr**_
 │   └── Quest_04   
 │       ├── .ipynb   
 │       └── README.md   
-├── _**Flutter**_   
+├── Flutter   
 │   ├── Quest_11   
 │   │   ├── .ipynb   
 │   │   └── README.md   
@@ -31,7 +31,7 @@ _**AIFFEL_quest_cr**_
 │   └── Quest_15   
 │       ├── .ipynb   
 │       └── README.md   
-├── _**Exploration**_   
+├── Exploration   
 │   ├── Quest_22   
 │   │   ├── .ipynb   
 │   │   └── README.md   

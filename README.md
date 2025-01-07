@@ -43,3 +43,4 @@ AIFFEL_quest_cr
         ├── .ipynb   
         └── README.md   
 ```
+# 코어 과정 진도

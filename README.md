@@ -43,5 +43,5 @@ AIFFEL_quest_cr
         ├── .ipynb   
         └── README.md   
 ```
-### 코어 과정 진도
+### 3. 코어 과정 진도
 ![12기_코어 - 모듈커리큘럼 복사본](https://github.com/user-attachments/assets/c64f8ed4-357c-416f-be68-1fa786e902e0)

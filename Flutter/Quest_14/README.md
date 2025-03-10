@@ -1,5 +1,7 @@
 # Exercise Pose Estimation
 
+- 코드는 3D_HPE_APP에 있습니다.
+
 **1. 어플리케이션 기본 정보**
 - 기존 Human Pose Estimation은 2D로 분석하여 정보 제공함
 - 운동은 x, y, z의 3축으로 구성되는 움직이기 때문에 3차원에서 분석이 필요함

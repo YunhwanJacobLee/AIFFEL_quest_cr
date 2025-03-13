@@ -178,7 +178,7 @@ class _JellyfishClassifierState extends State<JellyfishClassifier> {
 
 
 //회고: 이번 퀘스트를 통해서 서버를 활용하는 방법을 이해하는데 많은 도움이 되었다. 
-// 특히, flutter에서 label, score를 각각 출력하기 위해서 py파일을 수정하면서
+// 특히, flutter에서 label, score를 각각 출력하기 위해서 py파일을 수정하면서(수정파일은 jellyfish_py폴더에 있습니다.)
 // 내가 하고싶은 프로젝트에 대해 어떻게 해야할지 고민과 궁금증이 더 생기는 것 같다. 
 // 고민과 궁금증이 생긴다는 것은..내용을 조금 이해했기 때문에 생기는 것...
 // 코드는 GPT를 전적으로 활용했다. 

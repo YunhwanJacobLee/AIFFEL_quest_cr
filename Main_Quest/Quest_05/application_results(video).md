@@ -15,5 +15,7 @@
 https://github.com/user-attachments/assets/a3bb5a3b-f3e9-4dbe-8004-d123ebbe1cc0   
 
 4. 구현 동영상   
-https://github.com/user-attachments/assets/4190cd91-937b-42ef-9af5-cfc9ee41975e
+https://github.com/user-attachments/assets/4190cd91-937b-42ef-9af5-cfc9ee41975e   
+https://github.com/user-attachments/assets/9aa5bf93-69b7-44d4-81a0-9eae6692c744   
+
 

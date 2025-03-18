@@ -16,8 +16,12 @@
 ![image](https://github.com/user-attachments/assets/bdd0e76e-f8df-4c68-9b86-be7ca6f1b2db)    
 ![image](https://github.com/user-attachments/assets/a413fe61-192b-4c64-99af-141e157b722c)     
 
-## 4. 구현 동영상     
+## 4. 구현 동영상    
+- 앱 구현  
+https://github.com/user-attachments/assets/9aa5bf93-69b7-44d4-81a0-9eae6692c744 
+
+- 결과   
 https://github.com/user-attachments/assets/4190cd91-937b-42ef-9af5-cfc9ee41975e     
-https://github.com/user-attachments/assets/9aa5bf93-69b7-44d4-81a0-9eae6692c744     
+
 
 

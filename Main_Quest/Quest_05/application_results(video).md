@@ -14,4 +14,6 @@
 ![image](https://github.com/user-attachments/assets/a413fe61-192b-4c64-99af-141e157b722c)   
 https://github.com/user-attachments/assets/a3bb5a3b-f3e9-4dbe-8004-d123ebbe1cc0   
 
+4. 구현 동영상   
+https://github.com/user-attachments/assets/4190cd91-937b-42ef-9af5-cfc9ee41975e
 

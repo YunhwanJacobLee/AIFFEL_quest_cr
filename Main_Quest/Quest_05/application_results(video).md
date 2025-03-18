@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/dbc72784-7c7d-42c9-871d-c408db7d2933
 ## Human Pose Estimation
 
 ### 1. flutter camera 촬영시 api server로 동영상 전달 후 3d HPE를 위한 프레임 별 사진 파일로 저장

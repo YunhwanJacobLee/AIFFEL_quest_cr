@@ -16,9 +16,6 @@ https://github.com/user-attachments/assets/dbc72784-7c7d-42c9-871d-c408db7d2933
 ## 3. 3D HPE 완료 시 다시 동영상으로 저장   
 ![image](https://github.com/user-attachments/assets/bdd0e76e-f8df-4c68-9b86-be7ca6f1b2db)    
 ![image](https://github.com/user-attachments/assets/a413fe61-192b-4c64-99af-141e157b722c)     
-https://github.com/user-attachments/assets/66533d65-caa9-460c-90ce-f07551c22cfa
-
-
 
 ## 4. 구현 동영상     
 https://github.com/user-attachments/assets/4190cd91-937b-42ef-9af5-cfc9ee41975e     

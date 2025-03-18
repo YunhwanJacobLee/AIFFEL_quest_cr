@@ -1,5 +1,26 @@
-
 ## Human Pose Estimation
+
+**1. 어플리케이션 기본 정보**
+- 기존 Human Pose Estimation은 2D로 분석하여 정보 제공함
+- 운동은 x, y, z의 3축으로 구성되는 움직이기 때문에 3차원에서 분석이 필요함
+- 기존 3차원 분석은, 모션 캡쳐 장비와 물리적 마커를 사용해야하는 불편함이 존재함.
+- 따라서, 3D Human Pose Estimation으로 동작을 분석하여 운동 동작에 대한. 정보를 제공할 필요가 있음.
+    
+**2. 정보구조도** 
+- 없습니다.
+        
+**3. 와이어프레임**
+![image](https://github.com/user-attachments/assets/c72be173-2782-40c7-8d60-08ddc331913f)
+
+**4. 프로토타이핑**
+
+https://github.com/user-attachments/assets/17cfaade-f65d-4afd-9709-917ce794685f
+
+**5. flutter 구현**   
+
+https://github.com/user-attachments/assets/da5bc64b-856d-4e9d-a56d-391eaf0dcb04
+
+## 앱 실제 구현
 
 ### 1. flutter camera 촬영시 api server로 동영상 전달 후 3d HPE를 위한 프레임 별 사진 파일로 저장
 ![image](https://github.com/user-attachments/assets/5b145083-d0fe-4449-ad02-c2552ff4a047)    
